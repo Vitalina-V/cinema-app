@@ -54,7 +54,6 @@
             <artifactId>spring-security-web</artifactId>
             <version>${spring.security.version}</version>
         </dependency>
-
         <dependency>
             <groupId>org.apache.commons</groupId>
             <artifactId>commons-dbcp2</artifactId>
@@ -101,7 +100,6 @@
             <artifactId>postConstruct</artifactId>
             <version>1.0.0.Beta2</version>
         </dependency>
-
     </dependencies>
     <build>
         <plugins>
@@ -157,5 +155,4 @@
             </plugins>
         </pluginManagement>
     </build>
-
 </project>
